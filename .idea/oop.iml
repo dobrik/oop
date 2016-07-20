@@ -17,16 +17,14 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/pharcommand.phar/" />
-          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/composer.phar/" />
           <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/PEAR/go-pear.phar/" />
-          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/PEAR/phpunit.phar/" />
+          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/pharcommand.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/pharcommand.phar/" />
-          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/composer.phar/" />
           <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/PEAR/go-pear.phar/" />
-          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/PEAR/phpunit.phar/" />
+          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/../../../modules/php/PHP-5.4/pharcommand.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
